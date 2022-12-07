@@ -1,6 +1,6 @@
 #region Using
 using System;
-using DevExpress.Web.ASPxCallback;
+using DevExpress.Web;
 using System.Threading;
 #endregion
 public partial class _Default : System.Web.UI.Page {

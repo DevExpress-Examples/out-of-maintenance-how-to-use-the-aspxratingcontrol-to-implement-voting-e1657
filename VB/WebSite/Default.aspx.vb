@@ -1,7 +1,7 @@
 Imports Microsoft.VisualBasic
 #Region "Using"
 Imports System
-Imports DevExpress.Web.ASPxCallback
+Imports DevExpress.Web
 Imports System.Threading
 #End Region
 Partial Public Class _Default
